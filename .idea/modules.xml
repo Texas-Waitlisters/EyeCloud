@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/EyeCloud.iml" filepath="$PROJECT_DIR$/.idea/EyeCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EyeCloud.iml" filepath="$PROJECT_DIR$/EyeCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
